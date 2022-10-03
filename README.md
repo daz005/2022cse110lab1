@@ -56,7 +56,8 @@ more exaples:
 # 6) Links
 
 This site was built using [GitHub Pages](https://pages.github.com/).
-This is me ![Derek Zhu](Screen Shot 2022-03-28 at 11.33.32 AM.png)
+
+This is me ![Derek Zhu]("Screen Shot 2022-03-28 at 11.33.32 AM.png").
 
 # 7) Section links
 
