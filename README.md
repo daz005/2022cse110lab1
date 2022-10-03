@@ -1,5 +1,4 @@
 
-# 2022cse110lab1
 "Derek's User Page" 
 
 # [2022cse110lab1](https://github.com/daz005/2022cse110lab1)
