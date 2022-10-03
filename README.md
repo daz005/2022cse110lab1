@@ -86,8 +86,3 @@ README.md
 - [ ] https://github.com/octo-org/octo-repo/issues/740
 - [ ] Add delight to the experience when all tasks are complete :tada:
 
-
-
-
-
->>>>>>> 6e7bf81424d3777ccf3d424d852e45b81c90860d
