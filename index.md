@@ -6,11 +6,11 @@ Hiya! My name is **Derek Zhu**, I am a 4th year CS major in ERC college. I am cu
 ![picture](photo.jpg)
 
 # Table of Contents 
-[Intro](##Intro)
-[Hobbies](###Hobbies)
-[Favorite-Quote](####Favorite-Quote)
-[Foods-I-Enjoy](#####Foods-I-Enjoy)
-[Bucket-List](######Bucket-List)
+[Intro](##Intro)|
+[Hobbies](###Hobbies)|
+[Favorite-Quote](####Favorite-Quote)|
+[Foods-I-Enjoy](#####Foods-I-Enjoy)|
+[Bucket-List](######Bucket-List)|
 
 
 
